@@ -34,9 +34,8 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 ## Python Projects
 
-- [Project 1: Data Analysis with Pandas](https://github.com/TwojaNazwaUzytkownika/Project1)
-- [Project 2: Machine Learning Model with Scikit-Learn](https://github.com/TwojaNazwaUzytkownika/Project2)
-- [Project 3: Visualization Dashboard with Matplotlib](https://github.com/TwojaNazwaUzytkownika/Project3)
+- [Project 1: Transfermarkt-data-analysis-in-Python](https://github.com/PatrykPaul/Transfermarkt-data-analysis-in-Python-)
+
 
 ## SQL Projects
 
