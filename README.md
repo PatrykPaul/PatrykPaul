@@ -43,7 +43,7 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 ## Excel Projects
 - [FLAMEX Business Analysis](https://github.com/SnajperHS/Flamex)
-- [Savory Bites Sales Analysis 2023](https://github.com/SnajperHS/Restaurant-Sales-Insights)
+- [Restaurant Sales Analysis 2023](https://github.com/SnajperHS/Restaurant-Sales-Insights)
 
 
 ## Tableau Projects
