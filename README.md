@@ -1,16 +1,55 @@
-## Hi there 👋
+## 👋 Hi there! Welcome to my GitHub space!
 
-<!--
-**PatrykPaul/PatrykPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data analytics student with a strong focus on helping businesses turn data into valuable insights that drive growth and efficiency. Through my involvement in the Mathematics and Computer Science student associations at my university, I actively explore ways to leverage data for better decision-making and problem-solving.
 
-Here are some ideas to get you started:
+🎓 **Academic Background**: My studies in "Uniwersytet Komisji Edukacji Narodowej w Krakowie" - computer science major, provide me with a solid foundation in mathematics and computer science, which I apply to real-world business problems. My academic work, combined with hands-on projects in student organizations, has equipped me with the skills to analyze complex data sets and offer actionable insights that businesses can use to optimize their strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Business Impact and Skills**: I am passionate about helping companies improve their performance through data-driven insights. Whether it's identifying trends, forecasting outcomes, or optimizing processes, I focus on delivering solutions that are both practical and measurable. I'm experienced with tools like Python, R, SQL, and data visualization platforms such as Tableau and Power BI, which enable me to create clear and impactful visualizations tailored to business needs.
+
+🌱 **Motivation and Goals**: My goal is to support businesses in making data-driven decisions that lead to growth, cost savings, and enhanced efficiency. I am constantly learning and applying new techniques in data analysis and machine learning to better anticipate market trends, customer behavior, and operational efficiencies.
+
+💡 **Future Plans**: I plan to deepen my expertise in advanced analytics and machine learning, aiming to provide businesses with predictive models that not only reveal current patterns but also forecast future opportunities and challenges. My ambition is to become a key player in helping organizations stay ahead of the curve through innovative and actionable insights.
+
+
+
+## 🔧 Technologies and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-463B3D?style=for-the-badge&logo=kivy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+
+
+## 🛠️ Projects I'm working on
+
+## Python Projects
+
+- [Project 1: Data Analysis with Pandas](https://github.com/TwojaNazwaUzytkownika/Project1)
+- [Project 2: Machine Learning Model with Scikit-Learn](https://github.com/TwojaNazwaUzytkownika/Project2)
+- [Project 3: Visualization Dashboard with Matplotlib](https://github.com/TwojaNazwaUzytkownika/Project3)
+
+## SQL Projects
+
+
+## Excel Projects
+- [FLAMEX Business Analysis](https://github.com/SnajperHS/Flamex)
+- [Savory Bites Sales Analysis 2023](https://github.com/SnajperHS/Restaurant-Sales-Insights)
+
+
+## Tableau Projects
+
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-paul-148a8a275/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patryk5555511@gmail.com)
