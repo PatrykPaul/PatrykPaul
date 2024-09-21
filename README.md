@@ -34,7 +34,7 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 ## Python Projects
 
-- [Project 1: Transfermarkt-data-analysis-in-Python](https://github.com/PatrykPaul/Transfermarkt-data-analysis-in-Python-)
+- [Project 1: Transfermarkt-data-analysis-in-Python](https://github.com/PatrykPaul/Transfermarkt-data)
 
 
 ## SQL Projects
