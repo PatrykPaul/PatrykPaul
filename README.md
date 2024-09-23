@@ -4,7 +4,7 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 🎓 **Academic Background**: My studies in "Uniwersytet Komisji Edukacji Narodowej w Krakowie" - computer science major, provide me with a solid foundation in mathematics and computer science, which I apply to real-world business problems. My academic work, combined with hands-on projects in student organizations, has equipped me with the skills to analyze complex data sets and offer actionable insights that businesses can use to optimize their strategies.
 
-📊 **Business Impact and Skills**: I am passionate about helping companies improve their performance through data-driven insights. Whether it's identifying trends, forecasting outcomes, or optimizing processes, I focus on delivering solutions that are both practical and measurable. I'm experienced with tools like Python, R, SQL, and data visualization platforms such as Tableau and Power BI, which enable me to create clear and impactful visualizations tailored to business needs.
+📊 **Business Impact and Skills**: I am passionate about helping companies improve their performance through data-driven insights. Whether it's identifying trends, forecasting outcomes, or optimizing processes, I focus on delivering solutions that are both practical and measurable. I'm experienced with tools like Python, SQL, and data visualization platforms such as Tableau, which enable me to create clear and impactful visualizations tailored to business needs.
 
 🌱 **Motivation and Goals**: My goal is to support businesses in making data-driven decisions that lead to growth, cost savings, and enhanced efficiency. I am constantly learning and applying new techniques in data analysis and machine learning to better anticipate market trends, customer behavior, and operational efficiencies.
 
@@ -35,6 +35,8 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 ## Python Projects
 
 - [Transfermarkt-data-analysis](https://github.com/PatrykPaul/Transfermarkt-data)
+- [Car-sales-analysis](https://github.com/PatrykPaul/Car-sales-analysis)
+
 
 
 ## SQL Projects
