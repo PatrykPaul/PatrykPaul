@@ -33,8 +33,8 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 ## Python Projects
 
-- [Transfermarkt-data-analysis](https://github.com/PatrykPaul/Transfermarkt-data)
 - [Car-sales-analysis](https://github.com/PatrykPaul/Car-sales-analysis)
+- [Transfermarkt-data-analysis](https://github.com/PatrykPaul/Transfermarkt-data)
 
 
 
