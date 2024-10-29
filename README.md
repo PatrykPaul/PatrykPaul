@@ -41,14 +41,11 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 ## SQL Projects
 
+## Power BI
 
 ## Excel Projects
 - [Restaurant Sales Analysis](https://github.com/SnajperHS/Restaurant-Sales-Insights)
 - [FLAMEX Business Analysis](https://github.com/SnajperHS/Flamex)
-
-
-
-## Power BI
 
 
 ## 📫 How to Reach Me
