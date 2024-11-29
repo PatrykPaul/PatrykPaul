@@ -42,6 +42,8 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 ## SQL Projects
 
 ## Power BI Projects
+- [Car Sales](https://github.com/PatrykPaul/Car_sales)
+- [Shop Sales](https://github.com/PatrykPaul/Shop-Sales)
 
 ## Excel Projects
 - [Restaurant Sales Analysis](https://github.com/SnajperHS/Restaurant-Sales-Insights)
