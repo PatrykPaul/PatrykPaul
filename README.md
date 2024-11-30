@@ -33,8 +33,8 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 ## Python Projects
 
-- [Car-sales-analysis](https://github.com/PatrykPaul/Car-sales-analysis)
-- [Shop-customers-analysis](https://github.com/PatrykPaul/Shop-customers-analysis)
+- [Car Sales Analysis](https://github.com/PatrykPaul/Car-sales-analysis)
+- [Shop Customers Analysis](https://github.com/PatrykPaul/Shop-customers-analysis)
 
 
 
