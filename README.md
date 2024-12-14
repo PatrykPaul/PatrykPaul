@@ -41,6 +41,7 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 
 ## SQL Projects
+- [FireShopDB](https://github.com/PatrykPaul/FireShopDB)
 
 ## Power BI Projects
 - [Car Sales](https://github.com/PatrykPaul/Car_sales)
